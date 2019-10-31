@@ -1,0 +1,5 @@
+Key,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+
+lblStashAll,UI,Tooltip,New,Dump All But Hotbar,,,,,
+lblStashFillStacks,UI,Tooltip,New,Fill Existing Storage Stacks,,,,,
+lblStashSmart,UI,Tooltip,New,Push if Exists Beyond Stacks,,,,,
